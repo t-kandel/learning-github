@@ -1,3 +1,11 @@
 # learning-github
-This is my first GitHub repository.
-created by Tika
+
+Hi, I'm Tika.
+
+I am learning how to use GitHub.
+
+## Goals
+- Learn repositories
+- Learn commits
+- Learn branches
+- Learn collaboration
