@@ -1,8 +1,5 @@
-# Marketing Notes
+# GitHub Learning Progress
 
-Things I want to learn:
-
-- Google Analytics
-- Power BI
-- Python
-- GitHub
+- Created my first repository
+- Created my first branch
+- Learning how commits work
